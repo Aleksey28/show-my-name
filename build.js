@@ -1,3 +1,4 @@
 const fs = require('fs');
+const path = require('path');
 
-fs.writeFileSync('./.testcaferc.json', '{}');
+fs.writeFileSync(path.resolve(__dirname, '.testcaferc.json'), '{}');
