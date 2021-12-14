@@ -1,5 +1,5 @@
 {
-  "name": "show-my-name",
+  "name": "create-config-on-install",
   "version": "1.0.9",
   "description": "",
   "main": "index.js",
